@@ -1,3 +1,3 @@
 # infiniti-scroll
 
-projest with a api and javascript some html whit infinit scroll
+projest that pull data from api and populate database then shows it in a JSON view and scroll that loads whole database
